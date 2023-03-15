@@ -1,5 +1,4 @@
-https://capsule-render.vercel.app/api?
-![header](https://capsule-render.vercel.app/api?type=cylinder)
+https://capsule-render.vercel.app/api?![header](https://capsule-render.vercel.app/api?type=cylinder)
 
 <!--
 **iJisung/iJisung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
