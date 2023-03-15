@@ -16,14 +16,13 @@
 ### 💪 Skills
 #### Platforms & Languages
 <p>
-  <img src="https://img.shields.io/badge/Spring-4695EB?style=flat-square&logo=Spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SpringBoot-4695EB?style=flat-square&logo=SpringBoot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Springsecurity-4695EB?style=flat-square&logo=SSpringsecurity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-61DAFB?style=flat-square&logo=Django&logoColor=black"/>
-  <img src="https://img.shields.io/badge/AWS-61DAFB?style=flat-square&logo=AWS&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Spring-58c528?style=flat-square&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-58c528?style=flat-square&logo=SpringBoot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-2c6c10?style=flat-square&logo=Django&logoColor=black"/>
+  <img src="https://img.shields.io/badge/AWS-eb871d?style=flat-square&logo=AWS&logoColor=black"/>
 </p>
 <p>
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-FA7343?style=flat-square&logo=Pyhton&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-eb871d?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-ffd966?style=flat-square&logo=Pyhton&logoColor=white"/>
 </p>
