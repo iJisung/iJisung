@@ -19,7 +19,6 @@
   <img src="https://img.shields.io/badge/Spring-58c528?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-58c528?style=flat-square&logo=SpringBoot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-2c6c10?style=flat-square&logo=Django&logoColor=black"/>
-  <img src="https://img.shields.io/badge/AWS-eb871d?style=flat-square&logo=aws&logoColor=black"/>
 </p>
 <p>
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/> 
