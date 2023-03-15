@@ -6,7 +6,7 @@
 
 <p>
   👋&nbsp; Hi there! I'm <b>Backend developer</b> skilled in Java, Python and Spring boot<br/>
-  I have experience 4 years of enbaded development and 1 years of backend development.<br/>
+  At Gov education program I took backend development course to learn latest trend to web programmign and making APIs.<br/>
   At present, I have been interested in creating Spring APIs with Spring Frameworks and a Django with Python.<br/>
   Sometimes I develop Enbaded SW app with raspberry pi. (but prefer Backend nowdays)<br/><br/>
   I enjoy cooking, playing online games, and playing with cat. <br/>
