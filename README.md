@@ -21,7 +21,6 @@
   <img src="https://img.shields.io/badge/Django-2c6c10?style=flat-square&logo=Django&logoColor=black"/>
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Java-eb871d?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-ffd966?style=flat-square&logo=Pyhton&logoColor=white"/>
 </p>
